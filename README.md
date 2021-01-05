@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ### 💻Software Engineer 📫 reach me at maruf.mokhlesh@gmail.com
 
 ![mokhlesurrahman's github stats](https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhlesurrahman&layout=compact)](https://github.com/mokhlesurrahman/github-readme-stats)
