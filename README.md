@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![mokhlesurrahman's github stats](https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhlesurrahman)](https://github.com/mokhlesurrahman/github-readme-stats)
+
+[![mokhlesurrahman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mokhlesurrahman)](https://github.com/mokhlesurrahman/github-readme-stats)
