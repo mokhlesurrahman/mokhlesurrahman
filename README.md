@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻Software Engineer 📫 reach me at maruf.mokhlesh@gmail.com
+### 💻Software Engineer 📫 reach me at maruf@mokhlesurrahman.com
 
 ![mokhlesurrahman's github stats](https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&count_private=true)
 
